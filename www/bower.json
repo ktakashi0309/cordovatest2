@@ -1,0 +1,18 @@
+{
+  "name": "www",
+  "homepage": "https://github.com/ktakashi0309/cordovatest2",
+  "authors": [
+    "takashi <k.takashi0309@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
